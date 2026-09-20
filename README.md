@@ -40,7 +40,7 @@ That 15%/20% split is against a backdrop of rapidly growing overall output: tota
 ## Repo structure
 
 ```
-05-spotify-genre-explicit-trends/
+spotify-genre-explicit-trends/
 ├── README.md                        ← you are here
 ├── spotify_genre_explicit_viz.Rmd  ← full visualisation code
 └── figures/
