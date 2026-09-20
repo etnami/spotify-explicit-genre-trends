@@ -1,6 +1,6 @@
 # The Spotify Effect: Genre and Explicit Content Trends in the Streaming Age
 
-MSc Data Science coursework (University of Sheffield). A 6-chart data visualization composite exploring whether the proportion of explicit content in popular music changed after Spotify's 2008 launch, and which genres drove that shift, built from the MusicOSet dataset (20,405 songs, filtered to 2000-2018).
+MSc Data Science coursework (University of Sheffield), Grade: 65 (Merit). A 6-chart data visualization composite exploring whether the proportion of explicit content in popular music changed after Spotify's 2008 launch, and which genres drove that shift, built from the MusicOSet dataset (20,405 songs, filtered to 2000-2018).
 
 > **Reproducibility note:** the underlying MusicOSet CSVs aren't included in this repo (see Data, below), so `spotify_genre_explicit_viz.Rmd` can't be rerun end-to-end from this repo alone. 5 of the 6 figures below are the actual final chart images, extracted directly from the coursework's own write-up (not regenerated or redrawn); the 6th (the grouped bar chart) was supplied separately as a higher-resolution export. What you see is exactly what the code produced, not a redraw. Numbers in this README were cross-checked against what's visible in these images and the write-up's discussion, not independently recomputed, since the raw data isn't available to rerun.
 
